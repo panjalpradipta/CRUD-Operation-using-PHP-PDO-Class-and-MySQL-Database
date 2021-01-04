@@ -1,0 +1,19 @@
+body{
+	background-color: #EF6C42;
+}
+
+*{
+	font-family: 'Mulish', sans-serif;
+}
+
+.header{
+	text-align: center;
+	color: #F2E2DD;
+	margin-top:5vh;
+}
+
+
+.container{
+	width:35%;
+}
+
